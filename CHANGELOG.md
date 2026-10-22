@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.1 — Unreleased
+## 0.1.1 — 2026-10-22
 
 - Document installation from GitHub or an arbitrary local clone in English.
 - Make explicit read-only OAuth login part of the setup instructions.
