@@ -1,0 +1,14 @@
+{
+  "name": "yougile",
+  "version": "0.1.0",
+  "description": "Connect to the official YouGile MCP server using browser authorization.",
+  "interface": {
+    "displayName": "YouGile",
+    "shortDescription": "Access your YouGile tasks through the official MCP",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ]
+  },
+  "mcpServers": "./mcp.json"
+}
