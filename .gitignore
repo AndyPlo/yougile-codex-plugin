@@ -1,0 +1,26 @@
+# Local IDE settings
+.idea/
+.vscode/
+
+# macOS metadata
+.DS_Store
+._*
+
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+
+# Optional maintainer tooling
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local diagnostics and editor temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*~

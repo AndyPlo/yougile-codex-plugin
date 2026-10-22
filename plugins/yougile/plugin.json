@@ -1,6 +1,18 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "yougile",
-  "version": "0.1.0",
-  "description": "Connect to the official YouGile MCP server using browser authorization."
+  "version": "0.1.1",
+  "description": "Unofficial Codex plugin for the official YouGile MCP server with browser authorization.",
+  "author": {
+    "name": "AndyPlo"
+  },
+  "homepage": "https://github.com/AndyPlo/yougile-codex-plugin",
+  "repository": "https://github.com/AndyPlo/yougile-codex-plugin",
+  "license": "MIT",
+  "keywords": [
+    "yougile",
+    "codex",
+    "mcp",
+    "tasks"
+  ]
 }

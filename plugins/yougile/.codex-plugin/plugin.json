@@ -1,7 +1,7 @@
 {
   "name": "yougile",
-  "version": "0.1.0",
-  "description": "Connect to the official YouGile MCP server using browser authorization.",
+  "version": "0.1.1",
+  "description": "Unofficial Codex plugin for the official YouGile MCP server with browser authorization.",
   "interface": {
     "displayName": "YouGile",
     "shortDescription": "Access your YouGile tasks through the official MCP",
